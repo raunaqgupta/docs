@@ -1,0 +1,2 @@
+# docs
+Astro Documentation Template
